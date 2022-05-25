@@ -1,1 +1,2 @@
-this is readme file 
+#!/bin/bash
+This is readme file from repository
