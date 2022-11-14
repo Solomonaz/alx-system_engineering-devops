@@ -1,2 +1,1 @@
-#!/bin/bash
-This is readme file from repository
+0x04. Loops, conditions and parsing
